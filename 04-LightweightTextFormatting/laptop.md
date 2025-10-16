@@ -1,12 +1,12 @@
 # Laptops
 
-##Definition
+## Definition
 
 [A laptop][wikipedia] computer or notebook computer, also known as a laptop or notebook, is a small, portable personal computer (PC).
 
  Laptops typically have a clamshell form factor with a flat-panel screen on the inside of the upper lid and an alphanumeric keyboard and pointing device on the inside of the lower lid.
 
-##Types of laptops
+## Types of laptops
 
 * Smaller and larger laptops
 There were in the past a number of marketing categories for smaller and larger laptop computers; these included "notebook" and "subnotebook" models, low cost "netbooks", and "ultra-mobile PCs". 
@@ -17,7 +17,7 @@ The hybrids, convertibles, and 2-in-1s emerged as crossover devices, which share
 * Rugged laptops
 A rugged laptop is designed to reliably operate in harsh usage conditions such as strong vibrations, extreme temperatures, and wet or dusty environments. Rugged laptops are bulkier, heavier, and much more expensive than regular laptops, and thus are seldom seen in regular consumer use.
 
-##Laptop Hardware
+## Laptop Hardware
   
 
  The basic components of laptops function identically to their desktop counterparts although some alterations have been made in regard to weight and size of a laptop to increase it's portability.
@@ -33,7 +33,7 @@ A rugged laptop is designed to reliably operate in harsh usage conditions such a
  5. sound card 
  6. and display
 
- ##List of top laptop manufacturers
+ ## List of top laptop manufacturers
  * Acer
  * Apple
  * Asus
